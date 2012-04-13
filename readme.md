@@ -4,4 +4,4 @@ This stuff is old.
 
 But some people might find some use in it.
 
-Parts of it are were written by [Niklas](https://github.com/nhellenbart).
+Parts of it were written by [Niklas](https://github.com/nhellenbart).
