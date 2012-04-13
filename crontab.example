@@ -1,0 +1,2 @@
+*/3 * * * * php /path/to/lulzkaffee/checkMentions.php
+* * * * * php /path/to/lulzkaffee/sendCoffeeTweet.php
